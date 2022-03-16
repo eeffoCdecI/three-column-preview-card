@@ -41,8 +41,8 @@ body {
 .container {
     display: flex;
     position: absolute;
-    width: 800px;
-    height: 400px;
+    width: 820px;
+    height: 420px;
     border-radius: 8px;
     overflow: hidden;
     left: 50%;
@@ -76,13 +76,13 @@ body {
     position: absolute;
     bottom: 2rem;
     left: 2rem;
-    padding: 0.3rem 1rem;
+    padding: 0.6rem 1.3rem;
     cursor: pointer;
     font-family: "Lexend Deca";
     font-size: var(--body-font-size);
     text-transform: capitalize;
     border: 2px solid hsl(0, 0%, 95%);
-    border-radius: 1rem;
+    border-radius: 1.4rem;
 }
 
 .learn-more-btn:hover {
